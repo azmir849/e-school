@@ -60,3 +60,39 @@ nav ul{
 }
 
 /* ***********Banner CSS End********** */
+
+
+
+/* ************Categories Started********* */
+.categories{
+    margin-top: 50px;
+}
+
+.cat1, .cat2, .cat3,.cat4{
+    padding : 50px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color:#F0FFF0;
+}
+.cat2{
+    background-color:white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat3{
+    background-color:#F0FFF0;
+}
+.cat4{
+    background-color:#F0FFF0;
+}
+
+.categories img{
+    width: 66px;
+    height: 85px;
+    padding-bottom: 20px;
+}
+.d-flex{
+    margin: 10px;
+}
+/* ************Categories End************* */
