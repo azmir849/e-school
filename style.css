@@ -68,6 +68,10 @@ nav ul{
     margin-top: 50px;
 }
 
+.categories h5{
+    font-weight: bold;
+}
+
 .cat1, .cat2, .cat3,.cat4{
     padding : 50px 30px;
     border-radius: 10px;
