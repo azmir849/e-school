@@ -159,3 +159,22 @@ nav ul{
     margin-bottom: 100px;
 }
 /* ************Online Courses End************* */
+
+
+/* <!-- Testimonial people say CSS Satrted --> */
+.testimonial-people h1{
+    text-align: center;
+    font-weight: bolder;
+    margin: 30px;
+}
+.testimonial-people p{
+    margin-left: 30px;
+}
+.people img{
+    width: 10%;
+}
+
+.testimonial-people img{
+    width: 60%;
+}
+/* <!-- Testimonial people say CSS Satrted --> */
