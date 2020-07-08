@@ -1,0 +1,62 @@
+/* ***********Navbar CSS Start********** */
+.navbar-brand-logo{
+    position: relative;
+    width: 12%;
+}
+
+.navbar a{
+   font-weight: bold;
+   margin-right: 50px;
+
+}
+
+.navbar-signin-button{
+    border-radius: 33px;
+    width: 100px;
+}
+
+nav ul{
+    float:right;
+}
+
+/* ***********Navbar CSS End********** */
+
+
+/* ***********Banner CSS Start********** */
+.banner-section h5{
+ color: red;
+}
+
+.banner-section h6{
+    color:dimgray;
+    font-weight:0.9rem;
+}
+
+.banner-section h1{
+    font-weight: bolder;
+    font-size:50px;
+}
+.banner-section img{
+    margin-bottom: 100px;
+}
+
+#banner-title-text{
+    color: rgb(53, 211, 53);
+}
+
+.banner-get-start-button{
+    border-radius: 25px;
+    width: 155px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.banner-section{
+    margin-top: 65px;
+}
+
+.navbar-banner-background{
+   background-color: #F0FFF0; 
+}
+
+/* ***********Banner CSS End********** */
