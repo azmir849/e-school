@@ -66,6 +66,7 @@ nav ul{
 /* ************Categories Started********* */
 .categories{
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .categories h5{
@@ -100,3 +101,61 @@ nav ul{
     margin: 10px;
 }
 /* ************Categories End************* */
+
+
+/* ************Online Courses Start************* */
+.online-course h1{
+    text-align: center;
+    font-weight: bolder;
+    margin: 50px;
+}
+
+.card-photo{
+    width: 95%;
+   padding-top: 20px;
+   padding-left: 20px;
+}
+
+.card{
+    border: none;
+    border-radius: 22px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.card h4{
+    font-weight: bold;
+}
+
+.card h6{
+   color: dimgray;
+   margin-bottom: 25px;
+}
+
+.card button{
+    border-radius: 33px;
+    padding: 5px 20px;
+}
+
+.card-footer .calender,.people{
+    position: absolute;
+    width:24px;
+    width: 24px;
+}
+
+.card-footer-left p{
+    margin-left: 30px;
+}
+
+.card-footer-right p{
+    margin-left: 30px;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.online-course{
+    margin-bottom: 100px;
+}
+/* ************Online Courses End************* */
